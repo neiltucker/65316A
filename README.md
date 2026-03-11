@@ -4,7 +4,7 @@
 **Duration:** 5 Days  
 **Modules:** 16  
 **Audience Level:** Intermediate  
-**Format:** Instructor-Led / Self-Paced  
+**Format:** Instructor-Led / Bootcamp  
 
 ---
 
