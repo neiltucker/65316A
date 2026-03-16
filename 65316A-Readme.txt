@@ -6,9 +6,6 @@
 Setup Files: https://github.com/neiltucker/65316A
 Lab Setup:  https://github.com/neiltucker/65xxx
 
-## 
-Online Courseware: http://www.softwaretutorialservices.com/course/65316a
-
 ## ILT or Bootcamp Delivery
 This 5-day course provides students with the knowledge and skills required to administer a SQL Server 2025 database infrastructure. Students learn how to deploy and configure SQL Server instances, manage database objects, implement security, monitor performance, and automate administrative tasks using SQL Server Management Studio 22, PowerShell, and command-line tools.
 
