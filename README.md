@@ -1,6 +1,12 @@
 # 65316A  
 ## Administering Microsoft SQL Server 2025 Databases
 
+[![Software Tutorial Services](https://img.shields.io/badge/Instructor--Led%20Training-SoftwareTutorialServices.com-0078D4?style=flat-square)](https://www.softwaretutorialservices.com)
+[![Courseware Studio](https://img.shields.io/badge/AI%20Curriculum%20Authoring-CoursewareStudio.ai-6366F1?style=flat-square)](https://coursewarestudio.ai)
+
+**Course Delivery & Instructor Access:** [Software Tutorial Services](https://www.softwaretutorialservices.com)  
+**Course Authoring & LMS Packaging:** [Courseware Studio](https://coursewarestudio.ai)
+
 **Duration:** 5 Days  
 **Modules:** 16  
 **Audience Level:** Intermediate  
@@ -342,3 +348,11 @@ Students attending this course should have:
 - Utilize SSMS 22 enhancements for improved productivity
 - Implement new JSON and T-SQL functionality
 - Distinguish between new features and improvements from prior versions
+
+---
+
+## 🎓 Instructor Delivery & Custom Courseware
+
+* **Live Corporate Training Delivery:** To schedule this 5-day bootcamp delivered by Microsoft Certified Trainers for your team, visit **[Software Tutorial Services](https://www.softwaretutorialservices.com)**.
+* **AI Course Authoring & SCORM Exports:** Need to adapt this syllabus, generate tailored student manuals, create PowerPoint slide decks, or export interactive LMS packages? Use **[Courseware Studio](https://coursewarestudio.ai)**.
+* **Instructor Classroom Tools:** Pacing lab sessions? Use our free **[Timer3](https://github.com/neiltucker/timer3)** presentation timer.
