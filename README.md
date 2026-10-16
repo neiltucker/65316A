@@ -4,11 +4,11 @@
 [![Software Tutorial Services](https://img.shields.io/badge/Instructor--Led%20Training-SoftwareTutorialServices.com-0078D4?style=flat-square)](https://www.softwaretutorialservices.com)
 [![Courseware Studio](https://img.shields.io/badge/AI%20Curriculum%20Authoring-CoursewareStudio.ai-6366F1?style=flat-square)](https://coursewarestudio.ai)
 
-**Course Delivery & Instructor Access:** [Software Tutorial Services](https://www.softwaretutorialservices.com)  
+**Course Delivery & Instructor Access:** [Software Tutorial Services](https://www.softwaretutorialservices.com/course/65316a)  
 **Course Authoring & LMS Packaging:** [Courseware Studio](https://coursewarestudio.ai)
 
 **Duration:** 5 Days  
-**Modules:** 16  
+**Modules:** 15 (Plus 1 Optional Module)  
 **Audience Level:** Intermediate  
 **Format:** Instructor-Led / Bootcamp  
 
@@ -17,6 +17,8 @@
 ## Course Overview
 
 This five-day course provides students with the knowledge and skills required to administer a SQL Server 2025 database infrastructure. Students learn how to deploy and configure SQL Server instances, manage database objects, implement security, monitor performance, and automate administrative tasks using SQL Server Management Studio 22, PowerShell, and command-line tools.
+
+> **Modern AI-Powered Learning:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, receive instant explanations of administrative concepts and PowerShell scripts, and get guided troubleshooting help throughout all lab exercises.
 
 ---
 
