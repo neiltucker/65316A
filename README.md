@@ -18,7 +18,7 @@
 
 This five-day course provides students with the knowledge and skills required to administer a SQL Server 2025 database infrastructure. Students learn how to deploy and configure SQL Server instances, manage database objects, implement security, monitor performance, and automate administrative tasks using SQL Server Management Studio 22, PowerShell, and command-line tools.
 
-> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time, receive instant explanations of administrative concepts and PowerShell scripts, and get guided troubleshooting help throughout all lab exercises.
+> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to explore core administration concepts, investigate role-based security configurations, examine backup and recovery strategies, and review administrative automation workflows.
 
 ---
 
