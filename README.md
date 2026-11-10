@@ -1,5 +1,5 @@
 # 65316A  
-## Administering Microsoft SQL Server 2025 Databases
+## Administering a SQL Database Infrastructure (2025)
 
 [![Software Tutorial Services](https://img.shields.io/badge/Instructor--Led%20Training-SoftwareTutorialServices.com-0078D4?style=flat-square)](https://www.softwaretutorialservices.com)
 [![Courseware Studio](https://img.shields.io/badge/AI%20Curriculum%20Authoring-CoursewareStudio.ai-6366F1?style=flat-square)](https://coursewarestudio.ai)
